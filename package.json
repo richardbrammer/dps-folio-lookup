@@ -14,5 +14,9 @@
 	},
 	"dependencies" : {
 		"elementtree" : ">=0.1.5"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/richardbrammer/dps-folio-lookup"
+	},
 }
